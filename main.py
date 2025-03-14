@@ -1,6 +1,7 @@
 # import streamlit as st
 # conda install poppler 
 # pdfvision env
+# conda list poppler
 from typing_extensions import TypedDict
 from pdf2image import convert_from_path
 from io import BytesIO
